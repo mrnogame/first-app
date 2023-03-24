@@ -1,8 +1,8 @@
 from tkinter import Image
 import streamlit as st
-
+import base64
 print ('funziona?')
-st.text('jhshssjshsjsj hemnghre u goooohklhlhk fgufvuy')
+st.text('e don cast last last ')
 
 st.title('GO')
 st.text('i don charge my energey')
