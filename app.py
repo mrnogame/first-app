@@ -85,4 +85,7 @@ df = pd.DataFrame({
 st.dataframe(df)
 
 
+st.balloons()
+
+
 
